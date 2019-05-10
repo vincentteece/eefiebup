@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aepecohdo.homescreen.rocks/sitemap.xml
